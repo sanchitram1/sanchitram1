@@ -9,5 +9,6 @@ I'm Sanchit Ram Arvind
 - 🧑🏾‍🎓 I am currently a student at UC Berkeley, pursuing a Master of Analytics
 
 ## Selected projects
-- [chai](https://github.com/teaxyz/chai) ━ A postgres DB for the open-source dependency graph
+- [chai](https://github.com/teaxyz/chai) ━ A postgres DB for the open-source dependency graph.
+- [pyspam](https://github.com/sanchitram1/pyspam) – An ML-project to report on the spam likelihood of an PyPI package
 - [learnie](https://github.com/sanchitram1/learnie) ━ A fork of an Obsidian plug-in to help me with my midterms
