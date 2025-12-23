@@ -11,7 +11,7 @@ theoretical foundations at UC Berkeley.
   Handles ~4M nodes/edges, optimized for complex dependency queries. 
 - **[pyspam](https://github.com/sanchitram1/pyspam):** Built an MCP server enabling LLMs to interface with PyPI
   metadata to automate the detection of malicious packages using semantic analysis.
-- **[voyla](https://github.com/sanchitram1/voyla-olap-engine)** An OLAP implementation for [voyla](https://voyla.world),
+- **[voyla](https://github.com/sanchitram1/voyla-olap-engine):** An OLAP implementation for [voyla](https://voyla.world),
   a travel recommendation app for Gen Z.
 
 ## PyPI Packages
